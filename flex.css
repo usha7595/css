@@ -1,0 +1,14 @@
+.parent{
+  display: flex;
+  justify-content: space-around ;
+}
+.class{
+  border: 1px double black;
+  padding: 20px 40px;
+  border-radius: 12px;
+background-color: rgb(167, 167, 202);
+
+}
+h1{
+  text-align: center;
+}

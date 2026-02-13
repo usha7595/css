@@ -1,0 +1,21 @@
+img{
+  width:200px;
+  height: 200px;
+}
+.parent{
+  display: flex;
+  justify-content: center;
+  border-bottom: 8px solid rgb(197, 132, 197);
+  margin: 50px auto;
+width: 590px;
+padding: 20px 0;
+background-color: rgb(184, 223, 231);
+
+}
+.umiya{
+  margin-left: 20px;
+  text-align: center;
+}
+h1,h3{
+  font-style: italic;
+}

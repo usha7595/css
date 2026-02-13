@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+  opacity: .3;
+}
+.green{
+  background-color: green;
+  opacity: .3;
+  margin-bottom: 0 !important;
+}
+.c{
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+border-radius: 50%;
+margin-bottom: 10px;
+}
+.traffic{
+  background-color: black;
+  width: 100px;
+padding: 30px;
+border-radius: 300px; 
+margin: 50px auto;
+}

@@ -1,0 +1,10 @@
+p{
+  background-color: rgb(129, 207, 207);
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 350px;
+  border: 10px solid rgb(218, 112, 129);
+  border-radius: 50px;
+}
